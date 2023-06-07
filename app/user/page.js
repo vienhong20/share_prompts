@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>Tuesday Tacos</div>
+    <div>Boring Rainny day</div>
   )
 }
 
