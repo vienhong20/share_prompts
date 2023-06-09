@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>Thursday recovery day</div>
+    <div>TGIF</div>
   )
 }
 
