@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>TGIF</div>
+    <div>Try to Code when i can</div>
   )
 }
 
