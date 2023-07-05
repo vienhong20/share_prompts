@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>Thirsty Thurday</div>
+    <div>Hey Im back</div>
   )
 }
 
