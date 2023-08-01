@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>Just cheking in</div>
+    <div>Nothing serious but i will start working on project soon</div>
   )
 }
 
