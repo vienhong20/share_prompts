@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>commmit to Github</div>
+    <div>Day one</div>
   )
 }
 
