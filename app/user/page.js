@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>next.js</div>
+    <div>build something amazing</div>
   )
 }
 
