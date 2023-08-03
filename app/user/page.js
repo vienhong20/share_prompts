@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>nothing impossible</div>
+    <div>great thing take time</div>
   )
 }
 
