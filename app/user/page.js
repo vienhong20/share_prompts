@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>new app will be launch soon</div>
+    <div>application will be build soon</div>
   )
 }
 
