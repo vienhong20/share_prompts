@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>application will be build soon</div>
+    <div>It's okay to live the life that no one can understand. Be different.</div>
   )
 }
 
