@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>great thing take time</div>
+    <div>Next.js on the study</div>
   )
 }
 
